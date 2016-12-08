@@ -30,13 +30,7 @@ end
 hello
 ```
 
-Task Lists
--------------
-
--[x]<del>Curso code academy</del>
--[x]<del>Markdown</del>
--[ ]Apresentação Scrum
--[ ]Apresentação DevOps
+ß
 
 Links
 ------
@@ -46,8 +40,3 @@ Links
 Issue reference
 ---------------
 #1
-cs-giuliano-trindade/TreinamentoRuby#1
-
-
-
-[TOC]
