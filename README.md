@@ -30,13 +30,21 @@ end
 hello
 ```
 
-ß
+
 
 Links
 ------
 [GitHub - TreinamentoRuby](https://github.com/cs-giuliano-trindade/TreinamentoRuby)
 
 
-Issue reference
----------------
-test #1
+Listas
+
+* Teste
+* teste
+	* teste
+
+1. lorem
+2. Ipsum
+3. Lorem
+  * Lorem
+  * Ipsum
